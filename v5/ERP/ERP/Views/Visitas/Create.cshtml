@@ -1,0 +1,147 @@
+﻿@model ERP.Models.Visita
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+   
+
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="row shadow" style="margin-top:3rem;background-color:whitesmoke">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="col-md-4  border-right border-primary">
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Fecha, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="date" name="Fecha" class="form-control" />
+                        @Html.ValidationMessageFor(model => model.Fecha, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Costo, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Costo, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Costo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Latitud, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Latitud, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Latitud, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Altitud, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Altitud, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Altitud, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 border-right border-primary">
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Estado, "Estado", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Estado", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Estado, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Empresa, "Empresa", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Empresa", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Empresa, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Tecnologia, "Tecnologia", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Tecnologia", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Tecnologia, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Tipo, "Tipo", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Tipo", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Tipo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 ">
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    <div class="col-md-10">
+                        <input type="hidden" name="EstatusPago" class="form-control-plaintext" value="Sin Pagar" />
+                        @Html.ValidationMessageFor(model => model.EstatusPago, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+
+                    <div class="col-md-10">
+                        <input type="hidden" readonly class="form-control-plaintext" name="EstatusCobro" value="Sin Cobrar" />
+                        @Html.ValidationMessageFor(model => model.EstatusCobro, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.FechaMaxima, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="date" name="FechaMaxima"/>
+                        @Html.ValidationMessageFor(model => model.FechaMaxima, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Ingeniero, "Ingeniero", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Ingeniero", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Ingeniero, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    <div class="col-md-10">
+                        <input type="hidden" class="form-control" name="EstadoVisita" value="Asignada" />
+                        @Html.ValidationMessageFor(model => model.EstadoVisita, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-10" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+
+                    <textarea class="col-md-12" placeholder="Comentarios adicionales" rows="3" style="resize:none"></textarea>
+                </div>
+                
+                <div class="form-group" >
+                    <div class="col-md-offset-2 col-md-10">
+
+                        <input type="submit" value="Crear" class="btn btn-primary offset-2 col-md-4" />
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    }
+    
+    
+
+
+
+</body>
+</html>

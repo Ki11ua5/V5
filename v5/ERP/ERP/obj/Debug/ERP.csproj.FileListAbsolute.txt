@@ -1,0 +1,1032 @@
+C:\Users\carde\Desktop\ERP\ERP\bin\ERP.dll.config
+C:\Users\carde\Desktop\ERP\ERP\bin\ERP.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\ERP.pdb
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.AppContext.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Console.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Net.Http.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\carde\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carde\Desktop\ERP\ERP\bin\Antlr3.Runtime.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\EntityFramework.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Owin.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Helpers.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Mvc.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Optimization.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Razor.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.WebPages.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\WebGrease.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Helpers.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Mvc.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Optimization.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.Razor.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.WebPages.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Antlr3.Runtime.pdb
+C:\Users\carde\Desktop\ERP\ERP\bin\EntityFramework.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.Razor.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\EntityFramework.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\carde\Desktop\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\carde\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\carde\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\carde\Desktop\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\carde\Desktop\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Options.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Buffers.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.ComponentModel.Annotations.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Memory.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Numerics.Vectors.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Options.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Buffers.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Collections.Immutable.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Memory.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Numerics.Vectors.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carde\Desktop\ERP\ERP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\ERP.dll.config
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\ERP.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\ERP.pdb
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.AppContext.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Console.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Net.Http.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Antlr3.Runtime.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\EntityFramework.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Options.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Owin.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Buffers.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Collections.Immutable.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.ComponentModel.Annotations.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Memory.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Numerics.Vectors.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Helpers.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Mvc.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Optimization.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Razor.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.WebPages.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\WebGrease.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Options.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Buffers.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Collections.Immutable.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Memory.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Numerics.Vectors.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Helpers.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Mvc.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Optimization.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.Razor.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.WebPages.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Antlr3.Runtime.pdb
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\EntityFramework.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.Razor.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\EntityFramework.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\carde\Documents\GitHub\Re-MUG\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\ERP.dll.config
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\ERP.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\ERP.pdb
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.AppContext.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Console.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Net.Http.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Antlr3.Runtime.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\EntityFramework.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Options.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Owin.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Buffers.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.ComponentModel.Annotations.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Memory.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Numerics.Vectors.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Helpers.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Mvc.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Optimization.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Razor.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.WebPages.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\WebGrease.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Options.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Buffers.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Collections.Immutable.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Memory.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Numerics.Vectors.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Helpers.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Mvc.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Optimization.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.Razor.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.WebPages.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Antlr3.Runtime.pdb
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\EntityFramework.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.Razor.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\EntityFramework.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\carde\Desktop\v2\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\carde\Desktop\v2\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\carde\Desktop\v2\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\carde\Desktop\v2\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\ERP.dll.config
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\ERP.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\ERP.pdb
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.AppContext.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Console.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Net.Http.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Antlr3.Runtime.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\EntityFramework.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Options.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Buffers.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.ComponentModel.Annotations.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Memory.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Numerics.Vectors.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Helpers.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Mvc.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Optimization.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Razor.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.WebPages.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\WebGrease.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Options.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Buffers.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Collections.Immutable.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Memory.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Numerics.Vectors.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Helpers.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Mvc.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Optimization.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.Razor.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.WebPages.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Antlr3.Runtime.pdb
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\EntityFramework.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.Razor.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\EntityFramework.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\carde\Desktop\Control de versiones\v3\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\ERP.dll.config
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\ERP.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\ERP.pdb
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.AppContext.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Console.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Net.Http.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Antlr3.Runtime.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\EntityFramework.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Options.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Buffers.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.ComponentModel.Annotations.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Memory.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Numerics.Vectors.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Helpers.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Mvc.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Optimization.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Razor.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.WebPages.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\WebGrease.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Options.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Buffers.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Collections.Immutable.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Memory.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Numerics.Vectors.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Helpers.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Mvc.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Optimization.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.Razor.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.WebPages.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Antlr3.Runtime.pdb
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\EntityFramework.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.Razor.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\EntityFramework.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\carde\Desktop\Control de versiones\v4\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\ERP.dll.config
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\ERP.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\ERP.pdb
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.AppContext.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Console.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Net.Http.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Antlr3.Runtime.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\EntityFramework.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Options.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Owin.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Buffers.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Collections.Immutable.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.ComponentModel.Annotations.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Memory.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Numerics.Vectors.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Helpers.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Mvc.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Optimization.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Razor.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.WebPages.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\WebGrease.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Options.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Buffers.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Collections.Immutable.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Memory.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Numerics.Vectors.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Helpers.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Mvc.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Optimization.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.Razor.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.WebPages.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Antlr3.Runtime.pdb
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\EntityFramework.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.Razor.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\EntityFramework.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\carde\Desktop\Control de versiones\v5\ERP\ERP\obj\Debug\ERP.pdb

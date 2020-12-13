@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ERP.Models.Almacen>
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+</head>
+<body>
+    <p style="margin-top:2rem">
+        <a href="@Url.Action("Create","Almacens")"> <i class="fas fa-plus"></i>Crear Nuevo</a>
+    </p>
+    <table class="table table-striped border border-primary" >
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Altitud)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Latitud)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.codigo_postal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado1.Nom_Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ingeniero.Nombre)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Altitud)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Latitud)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo_postal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado1.Nom_Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ingeniero.Nombre)
+            </td>
+            <td>
+                    <a href="@Url.Action("Edit","Almacens",new { id=item.id_Almacen })"><i class="fas fa-edit"></i>| </a>
+                    <a href="@Url.Action("Details","Almacens",new { id=item.id_Almacen })"><i class="fas fa-info"></i>| </a>
+                    <a href="@Url.Action("Delete","Almacens",new { id=item.id_Almacen })"><i class="fas fa-trash"></i> </a>
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

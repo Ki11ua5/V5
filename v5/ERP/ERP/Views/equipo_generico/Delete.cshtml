@@ -1,0 +1,61 @@
+﻿@model ERP.Models.equipo_generico
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div class="card" style="width: 18rem; margin-top:2rem">
+        <div class="card-body">
+
+            <h6 class="card-subtitle mb-2 text-muted"></h6>
+            
+                
+                    <h4>¿Borrar?</h4>
+                    <hr />
+                    <dl class="dl-horizontal">
+                        <dt>
+                            @Html.DisplayNameFor(model => model.marca)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.marca)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.descripcion)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.descripcion)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.imagen)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.imagen)
+                        </dd>
+
+                    </dl>
+
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-actions no-color">
+                            <input type="submit" value="Borrar" class="btn btn-danger" />
+                            <a class="btn btn-primary" href="@Url.Action("Index","equipo_generico")">Regresar</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        
+</body>
+</html>

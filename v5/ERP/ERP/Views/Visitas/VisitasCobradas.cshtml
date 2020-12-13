@@ -1,0 +1,113 @@
+﻿@model IEnumerable<ERP.Models.Visita>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VisitasCobradas</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Latitud)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Altitud)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstatusPago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstatusCobro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaMaxima)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstadoVisita)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa1.Nombre_Empresa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado1.Nom_Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ingeniero1.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tecnologia1.Nombre_tec)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoVisita.Nombre_Visita)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Latitud)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Altitud)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstatusPago)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstatusCobro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaMaxima)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstadoVisita)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empresa1.Nombre_Empresa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado1.Nom_Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ingeniero1.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tecnologia1.Nombre_tec)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoVisita.Nombre_Visita)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Folio }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Folio }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.Folio })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

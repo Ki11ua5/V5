@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ERPModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContextKey" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Almacen">
+    <Key>
+      <PropertyRef Name="id_Almacen" />
+    </Key>
+    <Property Name="id_Almacen" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Altitud" Type="Decimal" Precision="7" Scale="3" />
+    <Property Name="Latitud" Type="Decimal" Precision="7" Scale="3" />
+    <Property Name="Ing" Type="Int32" />
+    <Property Name="estado" Type="Int32" />
+    <Property Name="codigo_postal" Type="Int32" />
+    <NavigationProperty Name="Estado1" Relationship="Self.FK__Almacen__estado__01142BA1" FromRole="Almacen" ToRole="Estado" />
+    <NavigationProperty Name="Ingeniero" Relationship="Self.FK__Almacen__Ing__72C60C4A" FromRole="Almacen" ToRole="Ingeniero" />
+    <NavigationProperty Name="equipo_unico" Relationship="Self.FK__equipo_un__no_al__05D8E0BE" FromRole="Almacen" ToRole="equipo_unico" />
+  </EntityType>
+  <EntityType Name="AspNetRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.AspNetUserRoles" FromRole="AspNetRoles" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUserClaim">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClaimType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ClaimValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="AspNetUser" Relationship="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" FromRole="AspNetUserClaims" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUserLogin">
+    <Key>
+      <PropertyRef Name="LoginProvider" />
+      <PropertyRef Name="ProviderKey" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="LoginProvider" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProviderKey" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUser" Relationship="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" FromRole="AspNetUserLogins" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Name="EmailConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SecurityStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumberConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="TwoFactorEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="LockoutEndDateUtc" Type="DateTime" Precision="3" />
+    <Property Name="LockoutEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="AccessFailedCount" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUserClaims" Relationship="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" FromRole="AspNetUsers" ToRole="AspNetUserClaims" />
+    <NavigationProperty Name="AspNetUserLogins" Relationship="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" FromRole="AspNetUsers" ToRole="AspNetUserLogins" />
+    <NavigationProperty Name="AspNetRoles" Relationship="Self.AspNetUserRoles" FromRole="AspNetUsers" ToRole="AspNetRoles" />
+  </EntityType>
+  <EntityType Name="Empresa">
+    <Key>
+      <PropertyRef Name="id_empresa" />
+    </Key>
+    <Property Name="Nombre_Empresa" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="id_empresa" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Visitas" Relationship="Self.FK__Visitas__Empresa__6A30C649" FromRole="Empresa" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="equipo_generico">
+    <Key>
+      <PropertyRef Name="modelo" />
+    </Key>
+    <Property Name="modelo" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="marca" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="descripcion" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Name="imagen" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="equipo_unico" Relationship="Self.FK__equipo_un__model__06CD04F7" FromRole="equipo_generico" ToRole="equipo_unico" />
+  </EntityType>
+  <EntityType Name="equipo_unico">
+    <Key>
+      <PropertyRef Name="no_serie" />
+    </Key>
+    <Property Name="no_serie" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="no_almacen" Type="Int32" />
+    <Property Name="modelo" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Almacen" Relationship="Self.FK__equipo_un__no_al__05D8E0BE" FromRole="equipo_unico" ToRole="Almacen" />
+    <NavigationProperty Name="equipo_generico" Relationship="Self.FK__equipo_un__model__06CD04F7" FromRole="equipo_unico" ToRole="equipo_generico" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="id_Estado" />
+    </Key>
+    <Property Name="Nom_Estado" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="id_Estado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Almacens" Relationship="Self.FK__Almacen__estado__01142BA1" FromRole="Estado" ToRole="Almacen" />
+    <NavigationProperty Name="Ingenieroes" Relationship="Self.FK__Ingeniero__Estad__6FE99F9F" FromRole="Estado" ToRole="Ingeniero" />
+    <NavigationProperty Name="Visitas" Relationship="Self.FK__Visitas__Estado__6D0D32F4" FromRole="Estado" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="Factura">
+    <Key>
+      <PropertyRef Name="id_Factura" />
+    </Key>
+    <Property Name="id_Factura" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ruta" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="id_visita" Type="Int32" />
+    <NavigationProperty Name="Visita" Relationship="Self.FK__Facturas__id_vis__2BFE89A6" FromRole="Facturas" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="Imagene">
+    <Key>
+      <PropertyRef Name="id_image" />
+    </Key>
+    <Property Name="id_image" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ruta" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="id_visita" Type="Int32" />
+    <NavigationProperty Name="Visita" Relationship="Self.FK__Imagenes__id_vis__29221CFB" FromRole="Imagenes" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="Ingeniero">
+    <Key>
+      <PropertyRef Name="id_ingeniero" />
+    </Key>
+    <Property Name="id_ingeniero" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Celular" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Correo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Estado" Type="Int32" />
+    <NavigationProperty Name="Almacens" Relationship="Self.FK__Almacen__Ing__72C60C4A" FromRole="Ingeniero" ToRole="Almacen" />
+    <NavigationProperty Name="Estado1" Relationship="Self.FK__Ingeniero__Estad__6FE99F9F" FromRole="Ingeniero" ToRole="Estado" />
+    <NavigationProperty Name="Visitas" Relationship="Self.FK__Visitas__Ingenie__75A278F5" FromRole="Ingeniero" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="Tecnologia">
+    <Key>
+      <PropertyRef Name="id_Tecnologia" />
+    </Key>
+    <Property Name="Nombre_tec" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="id_Tecnologia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Visitas" Relationship="Self.FK__Visitas__Tecnolo__6B24EA82" FromRole="Tecnologia" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="TipoVisita">
+    <Key>
+      <PropertyRef Name="id_tipo_visita" />
+    </Key>
+    <Property Name="Nombre_Visita" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="id_tipo_visita" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Visitas" Relationship="Self.FK__Visitas__Tipo__6C190EBB" FromRole="TipoVisita" ToRole="Visitas" />
+  </EntityType>
+  <EntityType Name="Visita">
+    <Key>
+      <PropertyRef Name="Folio" />
+    </Key>
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="Costo" Type="Int32" />
+    <Property Name="Latitud" Type="Decimal" Precision="7" Scale="3" />
+    <Property Name="Altitud" Type="Decimal" Precision="7" Scale="3" />
+    <Property Name="Estado" Type="Int32" />
+    <Property Name="Empresa" Type="Int32" />
+    <Property Name="Tecnologia" Type="Int32" />
+    <Property Name="Tipo" Type="Int32" />
+    <Property Name="EstatusPago" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="EstatusCobro" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="FechaMaxima" Type="DateTime" Precision="3" />
+    <Property Name="Folio" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ingeniero" Type="Int32" />
+    <Property Name="EstadoVisita" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Empresa1" Relationship="Self.FK__Visitas__Empresa__6A30C649" FromRole="Visitas" ToRole="Empresa" />
+    <NavigationProperty Name="Estado1" Relationship="Self.FK__Visitas__Estado__6D0D32F4" FromRole="Visitas" ToRole="Estado" />
+    <NavigationProperty Name="Facturas" Relationship="Self.FK__Facturas__id_vis__2BFE89A6" FromRole="Visitas" ToRole="Facturas" />
+    <NavigationProperty Name="Imagenes" Relationship="Self.FK__Imagenes__id_vis__29221CFB" FromRole="Visitas" ToRole="Imagenes" />
+    <NavigationProperty Name="Ingeniero1" Relationship="Self.FK__Visitas__Ingenie__75A278F5" FromRole="Visitas" ToRole="Ingeniero" />
+    <NavigationProperty Name="Tecnologia1" Relationship="Self.FK__Visitas__Tecnolo__6B24EA82" FromRole="Visitas" ToRole="Tecnologia" />
+    <NavigationProperty Name="TipoVisita" Relationship="Self.FK__Visitas__Tipo__6C190EBB" FromRole="Visitas" ToRole="TipoVisita" />
+  </EntityType>
+  <Association Name="FK__Almacen__estado__01142BA1">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="0..1" />
+    <End Role="Almacen" Type="Self.Almacen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id_Estado" />
+      </Principal>
+      <Dependent Role="Almacen">
+        <PropertyRef Name="estado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Almacen__Ing__72C60C4A">
+    <End Role="Ingeniero" Type="Self.Ingeniero" Multiplicity="0..1" />
+    <End Role="Almacen" Type="Self.Almacen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ingeniero">
+        <PropertyRef Name="id_ingeniero" />
+      </Principal>
+      <Dependent Role="Almacen">
+        <PropertyRef Name="Ing" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__equipo_un__no_al__05D8E0BE">
+    <End Role="Almacen" Type="Self.Almacen" Multiplicity="0..1" />
+    <End Role="equipo_unico" Type="Self.equipo_unico" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Almacen">
+        <PropertyRef Name="id_Almacen" />
+      </Principal>
+      <Dependent Role="equipo_unico">
+        <PropertyRef Name="no_almacen" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUser" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserClaims" Type="Self.AspNetUserClaim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserClaims">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUser" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserLogins" Type="Self.AspNetUserLogin" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserLogins">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Visitas__Empresa__6A30C649">
+    <End Role="Empresa" Type="Self.Empresa" Multiplicity="0..1" />
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empresa">
+        <PropertyRef Name="id_empresa" />
+      </Principal>
+      <Dependent Role="Visitas">
+        <PropertyRef Name="Empresa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__equipo_un__model__06CD04F7">
+    <End Role="equipo_generico" Type="Self.equipo_generico" Multiplicity="0..1" />
+    <End Role="equipo_unico" Type="Self.equipo_unico" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="equipo_generico">
+        <PropertyRef Name="modelo" />
+      </Principal>
+      <Dependent Role="equipo_unico">
+        <PropertyRef Name="modelo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ingeniero__Estad__6FE99F9F">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="0..1" />
+    <End Role="Ingeniero" Type="Self.Ingeniero" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id_Estado" />
+      </Principal>
+      <Dependent Role="Ingeniero">
+        <PropertyRef Name="Estado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Visitas__Estado__6D0D32F4">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="0..1" />
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id_Estado" />
+      </Principal>
+      <Dependent Role="Visitas">
+        <PropertyRef Name="Estado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Facturas__id_vis__2BFE89A6">
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="0..1" />
+    <End Role="Facturas" Type="Self.Factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Visitas">
+        <PropertyRef Name="Folio" />
+      </Principal>
+      <Dependent Role="Facturas">
+        <PropertyRef Name="id_visita" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Imagenes__id_vis__29221CFB">
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="0..1" />
+    <End Role="Imagenes" Type="Self.Imagene" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Visitas">
+        <PropertyRef Name="Folio" />
+      </Principal>
+      <Dependent Role="Imagenes">
+        <PropertyRef Name="id_visita" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Visitas__Ingenie__75A278F5">
+    <End Role="Ingeniero" Type="Self.Ingeniero" Multiplicity="0..1" />
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ingeniero">
+        <PropertyRef Name="id_ingeniero" />
+      </Principal>
+      <Dependent Role="Visitas">
+        <PropertyRef Name="Ingeniero" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Visitas__Tecnolo__6B24EA82">
+    <End Role="Tecnologia" Type="Self.Tecnologia" Multiplicity="0..1" />
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tecnologia">
+        <PropertyRef Name="id_Tecnologia" />
+      </Principal>
+      <Dependent Role="Visitas">
+        <PropertyRef Name="Tecnologia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Visitas__Tipo__6C190EBB">
+    <End Role="TipoVisita" Type="Self.TipoVisita" Multiplicity="0..1" />
+    <End Role="Visitas" Type="Self.Visita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoVisita">
+        <PropertyRef Name="id_tipo_visita" />
+      </Principal>
+      <Dependent Role="Visitas">
+        <PropertyRef Name="Tipo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AspNetUserRoles">
+    <End Role="AspNetRoles" Type="Self.AspNetRole" Multiplicity="*" />
+    <End Role="AspNetUsers" Type="Self.AspNetUser" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="ERPEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
+    <EntitySet Name="Almacens" EntityType="Self.Almacen" />
+    <EntitySet Name="AspNetRoles" EntityType="Self.AspNetRole" />
+    <EntitySet Name="AspNetUserClaims" EntityType="Self.AspNetUserClaim" />
+    <EntitySet Name="AspNetUserLogins" EntityType="Self.AspNetUserLogin" />
+    <EntitySet Name="AspNetUsers" EntityType="Self.AspNetUser" />
+    <EntitySet Name="Empresas" EntityType="Self.Empresa" />
+    <EntitySet Name="equipo_generico" EntityType="Self.equipo_generico" />
+    <EntitySet Name="equipo_unico" EntityType="Self.equipo_unico" />
+    <EntitySet Name="Estadoes" EntityType="Self.Estado" />
+    <EntitySet Name="Facturas" EntityType="Self.Factura" />
+    <EntitySet Name="Imagenes" EntityType="Self.Imagene" />
+    <EntitySet Name="Ingenieroes" EntityType="Self.Ingeniero" />
+    <EntitySet Name="Tecnologias" EntityType="Self.Tecnologia" />
+    <EntitySet Name="TipoVisitas" EntityType="Self.TipoVisita" />
+    <EntitySet Name="Visitas" EntityType="Self.Visita" />
+    <AssociationSet Name="FK__Almacen__estado__01142BA1" Association="Self.FK__Almacen__estado__01142BA1">
+      <End Role="Estado" EntitySet="Estadoes" />
+      <End Role="Almacen" EntitySet="Almacens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Almacen__Ing__72C60C4A" Association="Self.FK__Almacen__Ing__72C60C4A">
+      <End Role="Ingeniero" EntitySet="Ingenieroes" />
+      <End Role="Almacen" EntitySet="Almacens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__equipo_un__no_al__05D8E0BE" Association="Self.FK__equipo_un__no_al__05D8E0BE">
+      <End Role="Almacen" EntitySet="Almacens" />
+      <End Role="equipo_unico" EntitySet="equipo_unico" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserClaims" EntitySet="AspNetUserClaims" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserLogins" EntitySet="AspNetUserLogins" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Visitas__Empresa__6A30C649" Association="Self.FK__Visitas__Empresa__6A30C649">
+      <End Role="Empresa" EntitySet="Empresas" />
+      <End Role="Visitas" EntitySet="Visitas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__equipo_un__model__06CD04F7" Association="Self.FK__equipo_un__model__06CD04F7">
+      <End Role="equipo_generico" EntitySet="equipo_generico" />
+      <End Role="equipo_unico" EntitySet="equipo_unico" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ingeniero__Estad__6FE99F9F" Association="Self.FK__Ingeniero__Estad__6FE99F9F">
+      <End Role="Estado" EntitySet="Estadoes" />
+      <End Role="Ingeniero" EntitySet="Ingenieroes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Visitas__Estado__6D0D32F4" Association="Self.FK__Visitas__Estado__6D0D32F4">
+      <End Role="Estado" EntitySet="Estadoes" />
+      <End Role="Visitas" EntitySet="Visitas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Facturas__id_vis__2BFE89A6" Association="Self.FK__Facturas__id_vis__2BFE89A6">
+      <End Role="Visitas" EntitySet="Visitas" />
+      <End Role="Facturas" EntitySet="Facturas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Imagenes__id_vis__29221CFB" Association="Self.FK__Imagenes__id_vis__29221CFB">
+      <End Role="Visitas" EntitySet="Visitas" />
+      <End Role="Imagenes" EntitySet="Imagenes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Visitas__Ingenie__75A278F5" Association="Self.FK__Visitas__Ingenie__75A278F5">
+      <End Role="Ingeniero" EntitySet="Ingenieroes" />
+      <End Role="Visitas" EntitySet="Visitas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Visitas__Tecnolo__6B24EA82" Association="Self.FK__Visitas__Tecnolo__6B24EA82">
+      <End Role="Tecnologia" EntitySet="Tecnologias" />
+      <End Role="Visitas" EntitySet="Visitas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Visitas__Tipo__6C190EBB" Association="Self.FK__Visitas__Tipo__6C190EBB">
+      <End Role="TipoVisita" EntitySet="TipoVisitas" />
+      <End Role="Visitas" EntitySet="Visitas" />
+    </AssociationSet>
+    <AssociationSet Name="AspNetUserRoles" Association="Self.AspNetUserRoles">
+      <End Role="AspNetRoles" EntitySet="AspNetRoles" />
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

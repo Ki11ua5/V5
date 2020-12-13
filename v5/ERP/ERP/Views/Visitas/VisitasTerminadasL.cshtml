@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ERP.Models.Visita>
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Visitas Terminadas</title>
+</head>
+<body>
+
+    <table class="table table-striped border border-primary " style="margin-top:2rem">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa1.Nombre_Empresa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado1.Nom_Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ingeniero1.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tecnologia1.Nombre_tec)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoVisita.Nombre_Visita)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Empresa1.Nombre_Empresa)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado1.Nom_Estado)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ingeniero1.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tecnologia1.Nombre_tec)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoVisita.Nombre_Visita)
+                </td>
+                <td>
+                    <a href="@Url.Action("Details","Visitas",new { id=item.Folio })"><i class="fas fa-info"></i> </a>
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

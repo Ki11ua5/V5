@@ -1,0 +1,94 @@
+﻿@model ERP.Models.Visita
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Eliminar Visita</title>
+</head>
+<body>
+    
+    <div>
+        
+        <div class="card" style="width: 18rem; margin-top:2rem">
+            <div class="card-body">
+                <h5 class="card-title">Visita</h5>
+                <hr />
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Fecha)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Fecha)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Ingeniero1.Nombre)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Ingeniero1.Nombre)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Latitud)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Latitud)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Altitud)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Altitud)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Empresa1.Nombre_Empresa)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Empresa1.Nombre_Empresa)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Estado1.Nom_Estado)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Estado1.Nom_Estado)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.TipoVisita.Nombre_Visita)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.TipoVisita.Nombre_Visita)
+                    </dd>
+
+                </dl>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions">
+                        <input type="submit" value="Borrar" class="btn btn-danger" />
+                        <a class="btn btn-primary" href="@Url.Action("Index","Visitas")">Regresar</a>
+                    </div>
+                }
+            </div>
+        </div>
+
+       
+
+       
+    </div>
+</body>
+</html>

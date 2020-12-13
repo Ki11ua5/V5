@@ -1,0 +1,51 @@
+﻿@model ERP.Models.RegisterViewModel
+
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+<div class="col-md-8" style="background-color: whitesmoke">
+    <h4>Asignar Rol</h4>
+    <hr />
+    <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+        @Html.LabelFor(m => m.Email, new { @class = "col-md-5 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+        @Html.LabelFor(m => m.Password, new { @class = "col-md-5 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+        @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-5 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="col-md-10">
+        <div class="form-group"style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+            <label for="Roles" >Rol</label>
+            <select class="form-control" id="Roles" name="Roles">
+                <option value="Technical">Tecnico</option>
+                <option value="Logistic">Logistica</option>
+                <option value="Almacenist">Almacenista</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-primary" value="Registrar" />
+        </div>
+    </div>
+    
+</div>
+        }
+
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+        }

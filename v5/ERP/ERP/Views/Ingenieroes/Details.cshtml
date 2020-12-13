@@ -1,0 +1,65 @@
+﻿@model ERP.Models.Ingeniero
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detalles</title>
+</head>
+<body>
+    <div>
+        <div class="card" style="width: 18rem; margin-top:2rem">
+            <div class="card-body">
+                <h5 class="card-title">Detalles</h5>
+                <hr />
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Nombre)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Celular)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Celular)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Correo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Correo)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Direccion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Direccion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Estado1.Nom_Estado)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Estado1.Nom_Estado)
+                    </dd>
+
+                </dl>
+            </div>
+            </div>
+        </div>
+</body>
+</html>

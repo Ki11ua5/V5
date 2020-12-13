@@ -1,0 +1,57 @@
+﻿@model ERP.Models.equipo_generico
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <div class="card" style="width: 18rem; margin-top:2rem">
+        <div class="card-body">
+        <h5 class="card-title">Equipo</h5>
+        <hr />
+        <h6 class="card-subtitle mb-2 text-muted"></h6>
+        
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.modelo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.modelo)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.marca)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.marca)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.descripcion)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.descripcion)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.imagen)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.imagen)
+            </dd>
+
+        </dl>
+    </div>
+            </div>
+        </div>
+    
+</body>
+</html>
