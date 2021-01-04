@@ -1,0 +1,12 @@
+if (ModelState.IsValid)
+            {
+                if (file != null)
+                {
+                    String ruta = Server.MapPath("~/Clase/");
+                    ruta += file.FileName;
+                    file.SaveAs(ruta);
+                }
+                db.equipo_generico.Add(equipo_generico);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }

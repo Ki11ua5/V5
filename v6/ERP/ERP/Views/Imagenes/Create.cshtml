@@ -1,0 +1,54 @@
+﻿@model ERP.Models.Imagene
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+</head>
+<body>
+    @using (Html.BeginForm("Create", "Imagenes", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        
+    <div class="form-horizontal">
+        <h4>Visita numero @ViewBag.idfolio</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.ruta, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ruta, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ruta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+         
+            <div class="col-md-10">
+               <input name="Folio" value=@ViewBag.idfolio hidden />
+                @Html.ValidationMessageFor(model => model.Folio, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="col-md-10">
+            <label>Imagen</label>
+            <div class="custom-file ">
+                <input type="file" class="custom-file-input" id="customFile" name="file2">
+                <label class="custom-file-label" for="customFile"></label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+    }
+    
+  
+</body>
+</html>

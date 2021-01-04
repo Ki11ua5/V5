@@ -1,0 +1,28 @@
+﻿@model ERP.Models.Imagene
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3>¿Estas seguro de querer eliminar la imagen?</h3>
+    <div>
+        
+        
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <a class="btn btn-primary" href="@Url.Action("Index","Home")"><i class="far fa-hand-point-left"></i> Regresar</a>
+            </div>
+        }
+    </div>
+</body>
+</html>

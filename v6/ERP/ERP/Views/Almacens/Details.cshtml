@@ -1,0 +1,65 @@
+﻿@model ERP.Models.Almacen
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <div class="card" style="width: 18rem; margin-top:2rem">
+            <div class="card-body">
+                <h5 class="card-title">Visita</h5>
+                <hr />
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Altitud)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Altitud)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Latitud)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Latitud)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.codigo_postal)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.codigo_postal)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Estado1.Nom_Estado)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Estado1.Nom_Estado)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Ingeniero.Nombre)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Ingeniero.Nombre)
+                    </dd>
+
+                </dl>
+            </div>
+           </div>
+        </div>
+</body>
+</html>

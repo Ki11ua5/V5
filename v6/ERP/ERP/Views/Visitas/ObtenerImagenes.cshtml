@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ERP.Models.Imagene>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ObtenerImagenes</title>
+</head>
+<body>
+    
+    @foreach (var item in Model)
+    {
+        var carpeta = Server.MapPath("~") + @"Clase/";
+        //Necesitas: using System.IO; para realizar esto
+        DirectoryInfo d = new DirectoryInfo(carpeta);
+        //Obtenemos todos los .jpg
+        FileInfo[] Files = d.GetFiles("*.jpg");
+        //Recorremos la carpeta
+        foreach (var i in Files)
+        {
+
+
+            if (item.ruta ==i.Name) {
+        <div class="">
+            <img src="~/Clase/@item.ruta" width="300" height="300" alt="" />
+        </div>
+                <a class="btn btn-danger" href="@Url.Action("Delete","Imagenes",new {id=item.id_image })"><i class="fas fa-trash"></i>Borrar</a>
+            }
+        }
+    }
+
+
+</body>
+</html>

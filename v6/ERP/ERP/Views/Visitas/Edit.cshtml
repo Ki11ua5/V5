@@ -1,0 +1,145 @@
+﻿@model ERP.Models.Visita
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="row shadow" style="margin-top:3rem;background-color:whitesmoke">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="col-md-6 border-right border-primary">
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Fecha, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="date" name="Fecha" class="form-control" />
+                        @Html.ValidationMessageFor(model => model.Fecha, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Costo, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Costo, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Costo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Latitud, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Latitud, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Latitud, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Altitud, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Altitud, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Altitud, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Estado, "Estado", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Estado", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Estado, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Empresa, "Empresa", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Empresa", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Empresa, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Tecnologia, "Tecnologia", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Tecnologia", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Tecnologia, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Tipo, "Tipo", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Tipo", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Tipo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+
+                    <div class="col-md-10">
+                        @Html.HiddenFor(model => model.EstatusPago, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.EstatusPago, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+
+                    <div class="col-md-10">
+                        @Html.HiddenFor(model => model.EstatusCobro, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.EstatusCobro, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.FechaMaxima, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="date" name="FechaMaxima" class="form-control" />
+                        @Html.ValidationMessageFor(model => model.FechaMaxima, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                @Html.HiddenFor(model => model.Folio)
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+                    @Html.LabelFor(model => model.Ingeniero, "Ingeniero", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Ingeniero", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Ingeniero, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="color:blue;font-family:Calibri;font-weight:bold;font-size:large">
+
+                    <div class="col-md-10">
+                        @Html.HiddenFor(model => model.EstadoVisita, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.EstadoVisita, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Guardar" class="btn btn-primary" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+    <!--
+        <div class="custom-file">
+            <input type="file" class="custom-file-input" id="customFile">
+            <label class="custom-file-label" for="customFile">Choose file</label>
+        </div>
+        -->
+<a href="@Url.Action("Index","Visitas")"><i class="fas fa-hand-point-left">Regresar</i></a>
+</body>
+</html>

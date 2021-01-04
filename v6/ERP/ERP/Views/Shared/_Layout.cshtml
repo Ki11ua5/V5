@@ -1,0 +1,136 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Soluciones TJ</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+</head>
+<body>
+    
+    <div class=" border-primary">
+        <div class="row">
+            <div class="wrapper col-lg-2">
+                <!-- Sidebar -->
+                <nav id="sidebar">
+                    <div style="width:100%" class="sidebar-header">
+                        <img src="~/Content/src/images/logo empresa 2.png" class="img-fluid" alt="Responsive image" />
+                    </div>
+
+                    <ul class="list-unstyled components">
+                        <li>
+                            <a href="@Url.Action("Index","Home")">Inicio</a>
+                        </li>
+                        <li>
+                            <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle " style="width:100%">Logística</a>
+                            <ul class="collapse list-unstyled" id="homeSubmenu">
+                                <li>
+                                    <a href="#Submenulogistica" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle " style="width:100%"> Personal Logística</a>
+                                    <ul class="collapse list-unstyled" id="Submenulogistica">
+                                        <li>
+                                            <a href="@Url.Action("Create","Visitas")">Nueva Visita</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("Index","Visitas")">Visitas Asignadas</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="@Url.Action("VisitasEnCursoL","Visitas")">Visitas en Proceso</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("VisitasTerminadasL","Visitas")">Visitas Terminadas</a>
+                                        </li>
+
+                                    </ul>
+                                    <a href="#SubmenuTecnico" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle " style="width:100%"> Técnicos</a>
+                                    <ul class="collapse list-unstyled" id="SubmenuTecnico">
+
+                                        <li>
+                                            <a href="@Url.Action("VisitasAsignadas","Visitas")">Visitas Asignadas</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("VisitasEnCurso","Visitas")">Visitas en Proceso</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("VisitasTerminadas","Visitas")">Visitas Concluidas</a>
+                                        </li>
+                                        <!--
+                    <li>
+                        <a href="~/Content/src/CV Miguel Cardenas.pdf">pdf</a>
+                    </li>
+                        -->
+                                    </ul>
+
+                                </li>
+
+
+                            </ul>
+                        </li>
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li>
+                                <a href="@Url.Action("Register","Account")">Registrar Permisos</a>
+                            </li>
+                        }
+                        <!--
+                        <li>
+
+                            <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle ">Contabilidad</a>
+                            <ul class="collapse list-unstyled " id="pageSubmenu">
+                                <li>
+                                    <a href="@Url.Action("VisitasPagadas","Visitas")">Visitas Pagadas</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("VisitasCobradas","Visitas")">Visitas Cobradas</a>
+                                </li>
+
+                            </ul>
+                        </li>
+    -->
+                        <!--
+    <li>
+        <a href="@Url.Action("Index","Almacens")">Almacén</a>
+    </li>
+
+                        <li>
+                            <a href="@Url.Action("Index","Eu")">Equipos Únicos</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index","equipo_generico")">Equipo Genérico</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index","Ingenieroes")">Ingenieros</a>
+                        </li>
+                            -->
+                    </ul>
+                        
+                </nav>
+
+            </div>
+            <div class="col-lg-9">
+
+                <div class="container body-content">
+                    @RenderBody()
+
+
+                </div>
+            </div>
+        </div>
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Soluciones TJ</p>
+        </footer>
+
+    </div>
+    
+    
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ERP.Models.equipo_generico>
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+</head>
+<body>
+    <p style="margin-top:2rem">
+        <a href="@Url.Action("Create","equipo_generico")"><i class="fas fa-plus"> Crear Nuevo</i> </a>
+    </p>
+    <table class="table table-striped border border-primary">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.modelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.descripcion)
+            </th>
+
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.descripcion)
+        </td>
+
+        <td>
+            <a href="@Url.Action("Edit","equipo_generico",new { id=item.modelo })"><i class="far fa-edit"></i></a>
+            <a href="@Url.Action("Details","equipo_generico",new { id=item.modelo })"><i class="fas fa-info"></i></a>
+            <a href="@Url.Action("Delete","equipo_generico",new { id=item.modelo })"><i class="fas fa-trash"></i></a>
+        </td>
+    </tr>
+    }
+    
+    </table>
+    <div>
+        <img src="~/Clase/portada.jpg" class="img-fluid" alt="Responsive image"/>
+    </div>
+</body>
+</html>

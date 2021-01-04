@@ -1,0 +1,88 @@
+﻿@using ERP.Models
+@model LoginViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div>
+        <div class="offset-4 col-lg-4 " style="margin-top:2rem">
+            <img src="~/Content/src/images/logo empresa 2.png"
+                 class="img-fluid"
+                 alt="Responsive image" />
+            <br />
+            <hr />
+        </div>
+        <div class="row">
+            <br />
+            <div class=" offset-2 col-md-5 col-lg-4" style="border:solid;border-color:#2152f3">
+                <section id="loginForm">
+                    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <h4 class="card-title" style="text-align:center;font-style:italic;margin-top:10px">Inicie sesión</h4>
+                        <hr />
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Email, new { @class = "col-md-8 control-label" })
+                            <div class="col-md-11">
+                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-11">
+                                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-11">
+                                <div class="checkbox">
+                                    @Html.CheckBoxFor(m => m.RememberMe)
+                                    @Html.LabelFor(m => m.RememberMe)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-11">
+                                <input type="submit" value="Iniciar sesión" class="btn btn-primary col-md-12" />
+                            </div>
+                        </div>
+                        <!--<div class="col-md-11">
+            <a class="btn btn-primary col-md-12" href="@Url.Action("Index","Home")">Inicio</a>
+        </div>
+        -->
+
+                    }
+                </section>
+            </div>
+        <div class="col-md-5 col-lg-4"
+                 style="
+                    border: solid;
+                    border-color: #2152f3;
+                    background-size: cover;
+                    background-color: #0062CC">
+                <img src="~/Content/src/images/antena.png"
+                     class="img-fluid"
+                     alt="Responsive image" />
+         </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
+
